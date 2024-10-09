@@ -13,6 +13,6 @@ Click "Add Notes" to create your note.
 Enjoy the color change upon adding your first note!
 Installation
 No installation is required. Just open the index.html file in a modern web browser.
-
+Demo https://kelvin-owino.github.io/Note-Taker/
 License
 This project is open source and available under the MIT License.
